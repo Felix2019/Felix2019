@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A Fullstack developer from Cologne</h3>
+<h3 align="center">A fullstack developer from Cologne</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felix2019&label=Profile%20views&color=0e75b6&style=flat" alt="felix2019" /> </p>
 
