@@ -14,6 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felix2019&show_icons=true&locale=en&layout=compact" alt="felix2019" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felix2019&show_icons=true&locale=en" alt="felix2019" /></p>
 
 
